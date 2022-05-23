@@ -1,12 +1,10 @@
  /// @description Insert description here
 // You can write your code in this editor
 
+
 if(subNivel1 == true && numero == "1")
 {
-	
-	sprite_index = circulo; 
-	image_speed = 0;
-	image_index = 0;
+
 	draw_self();
 	draw_set_color(c_white);
 	draw_set_halign(fa_center);
@@ -30,9 +28,7 @@ else
 
 if(subNivel2 == true && numero == "2"){
 	
-	sprite_index = circulo; 
-	image_speed = 0;
-	image_index = 0;
+	
 	draw_self();
 	draw_set_color(c_white);
 	draw_set_halign(fa_center);
@@ -42,6 +38,7 @@ if(subNivel2 == true && numero == "2"){
 }
 else
 {
+	
 	if(subNivel2 == false && numero == "2"){
 		draw_self();
 		draw_set_color(c_black);
@@ -54,9 +51,7 @@ else
 
 if(subNivel3 == true && numero == "3"){
 	
-	sprite_index = circulo; 
-	image_speed = 0;
-	image_index = 0;
+	
 	draw_self();
 	draw_set_color(c_white);
 	draw_set_halign(fa_center);
@@ -77,9 +72,8 @@ else
 }    
 
 if(subNivel4 == true && numero == "4"){
-	sprite_index = circulo; 
-	image_speed = 0;
-	image_index = 0;
+	
+	
 	draw_self();
 	draw_set_color(c_white);
 	draw_set_halign(fa_center);
@@ -101,16 +95,15 @@ else
 
 
 if(subNivel5 == true && numero == "5"){
-	sprite_index = circulo; 
-	image_speed = 0;
-	image_index = 0;
+	
+
 
 	draw_self();
 	draw_set_color(c_white);
 	draw_set_halign(fa_center);
 	draw_set_valign(fa_middle);
 	draw_set_font(Font1);
-	draw_text(x,y,"2");
+	draw_text(x,y,"5");
 }
 else
 {
@@ -125,9 +118,8 @@ else
 }    
 
 if(subNivel6 == true && numero == "6"){
-	sprite_index = circulo; 
-	image_speed = 0;
-	image_index = 0;
+
+
 	draw_self();
 	draw_set_color(c_white);
 	draw_set_halign(fa_center);
@@ -148,9 +140,8 @@ else
 }    
 
 if(subNivel7 == true && numero == "7"){
-	sprite_index = circulo; 
-	image_speed = 0;
-	image_index = 0;
+
+
 
 	draw_self();
 	draw_set_color(c_white);
@@ -173,9 +164,7 @@ else
 
 
 if(subNivel8 == true && numero == "8"){
-	sprite_index = circulo; 
-	image_speed = 0;
-	image_index = 0;
+
 	draw_self();
 	draw_set_color(c_white);
 	draw_set_halign(fa_center);
@@ -196,9 +185,8 @@ else
 }    
 
 if(subNivel9 == true && numero == "9"){
-	sprite_index = circulo; 
-	image_speed = 0;
-	image_index = 0;
+
+	
 	draw_self();
 	draw_set_color(c_white);
 	draw_set_halign(fa_center);
@@ -219,9 +207,8 @@ else
 }    
 
 if(subNivel10 == true && numero == "10"){
-	sprite_index = circulo; 
-	image_speed = 0;
-	image_index = 0;
+	
+
 	draw_self();
 	draw_set_color(c_white);
 	draw_set_halign(fa_center);
@@ -242,9 +229,7 @@ else
 }   
 
 if(subNivel11 == true && numero == "11"){
-	sprite_index = circulo; 
-	image_speed = 0;
-	image_index = 0;
+
 	draw_self();
 	draw_set_color(c_white);
 	draw_set_halign(fa_center);
@@ -266,9 +251,8 @@ else
 
 
 if(subNivel12 == true && numero == "12"){
-	sprite_index = circulo; 
-	image_speed = 0;
-	image_index = 0;
+	
+	
 	draw_self();
 	draw_set_color(c_white);
 	draw_set_halign(fa_center);
@@ -289,15 +273,13 @@ else
 }   
 
 if(subNivel13 == true && numero == "13"){
-	sprite_index = circulo; 
-	image_speed = 0;
-	image_index = 0;
+	
 	draw_self();
 	draw_set_color(c_white);
 	draw_set_halign(fa_center);
 	draw_set_valign(fa_middle);
 	draw_set_font(Font1);
-	draw_text(x,y,"11");
+	draw_text(x,y,"13");
 }
 else
 {
@@ -312,9 +294,7 @@ else
 }   
 
 if(subNivel14 == true && numero == "14"){
-	sprite_index = circulo; 
-	image_speed = 0;
-	image_index = 0;
+	
 	draw_self();
 	draw_set_color(c_white);
 	draw_set_halign(fa_center);
@@ -337,9 +317,7 @@ else
 
 if(subNivel15 == true && numero == "15")
 {
-	sprite_index = circulo; 
-	image_speed = 0;
-	image_index = 0;
+
 	draw_self();
 	draw_set_color(c_white);
 	draw_set_halign(fa_center);

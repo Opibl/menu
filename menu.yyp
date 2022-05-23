@@ -1,5 +1,7 @@
 {
   "resources": [
+    {"id":{"name":"objViablesGlobalesMapa","path":"objects/objViablesGlobalesMapa/objViablesGlobalesMapa.yy",},"order":3,},
+    {"id":{"name":"Font2","path":"fonts/Font2/Font2.yy",},"order":1,},
     {"id":{"name":"Objeto_ayuda","path":"objects/Objeto_ayuda/Objeto_ayuda.yy",},"order":1,},
     {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},"order":0,},
     {"id":{"name":"fondo","path":"sprites/fondo/fondo.yy",},"order":0,},
